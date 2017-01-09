@@ -37,7 +37,7 @@ still see the abuse attempts, this duration can range from an hour to day(s).
 
 ## Channel ban policies
 
-Some channels may chose to disallow connections from Tor connections. This is
+Some channels may choose to disallow connections from Tor connections. This is
 the choice of the channel, and not a decision by the network. However, it is
 also common for channels to allow an exception for identified Tor users, who
 have turned on their cloak.
